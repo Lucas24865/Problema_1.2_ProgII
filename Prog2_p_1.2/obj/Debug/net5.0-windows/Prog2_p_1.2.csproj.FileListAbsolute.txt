@@ -1,0 +1,116 @@
+E:\Documentos\C#\Projecto1\Prog2\Prog2_p_1.2\Prog2_p_1.2\bin\Debug\net5.0-windows\Prog2_p_1.2.exe
+E:\Documentos\C#\Projecto1\Prog2\Prog2_p_1.2\Prog2_p_1.2\bin\Debug\net5.0-windows\Prog2_p_1.2.deps.json
+E:\Documentos\C#\Projecto1\Prog2\Prog2_p_1.2\Prog2_p_1.2\bin\Debug\net5.0-windows\Prog2_p_1.2.runtimeconfig.json
+E:\Documentos\C#\Projecto1\Prog2\Prog2_p_1.2\Prog2_p_1.2\bin\Debug\net5.0-windows\Prog2_p_1.2.runtimeconfig.dev.json
+E:\Documentos\C#\Projecto1\Prog2\Prog2_p_1.2\Prog2_p_1.2\bin\Debug\net5.0-windows\Prog2_p_1.2.dll
+E:\Documentos\C#\Projecto1\Prog2\Prog2_p_1.2\Prog2_p_1.2\bin\Debug\net5.0-windows\Prog2_p_1.2.pdb
+E:\Documentos\C#\Projecto1\Prog2\Prog2_p_1.2\Prog2_p_1.2\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+E:\Documentos\C#\Projecto1\Prog2\Prog2_p_1.2\Prog2_p_1.2\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Documentos\C#\Projecto1\Prog2\Prog2_p_1.2\Prog2_p_1.2\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+E:\Documentos\C#\Projecto1\Prog2\Prog2_p_1.2\Prog2_p_1.2\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+E:\Documentos\C#\Projecto1\Prog2\Prog2_p_1.2\Prog2_p_1.2\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Documentos\C#\Projecto1\Prog2\Prog2_p_1.2\Prog2_p_1.2\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Documentos\C#\Projecto1\Prog2\Prog2_p_1.2\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1.2.csproj.AssemblyReference.cache
+E:\Documentos\C#\Projecto1\Prog2\Prog2_p_1.2\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1.2.csproj.GenerateResource.cache
+E:\Documentos\C#\Projecto1\Prog2\Prog2_p_1.2\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1.2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\C#\Projecto1\Prog2\Prog2_p_1.2\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1.2.AssemblyInfoInputs.cache
+E:\Documentos\C#\Projecto1\Prog2\Prog2_p_1.2\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1.2.AssemblyInfo.cs
+E:\Documentos\C#\Projecto1\Prog2\Prog2_p_1.2\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1.2.csproj.CoreCompileInputs.cache
+E:\Documentos\C#\Projecto1\Prog2\Prog2_p_1.2\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1.2.csproj.CopyComplete
+E:\Documentos\C#\Projecto1\Prog2\Prog2_p_1.2\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1.2.dll
+E:\Documentos\C#\Projecto1\Prog2\Prog2_p_1.2\Prog2_p_1.2\obj\Debug\net5.0-windows\refint\Prog2_p_1.2.dll
+E:\Documentos\C#\Projecto1\Prog2\Prog2_p_1.2\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1.2.pdb
+E:\Documentos\C#\Projecto1\Prog2\Prog2_p_1.2\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1.2.genruntimeconfig.cache
+E:\Documentos\C#\Projecto1\Prog2\Prog2_p_1.2\Prog2_p_1.2\obj\Debug\net5.0-windows\ref\Prog2_p_1.2.dll
+E:\Documentos\C#\Projecto1\Prog2\Prog2_p_1.2\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1._2.Maestro.resources
+E:\Documentos\C#\Projecto1\Prog2\Prog2_p_1.2\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1._2.VistaArts.resources
+E:\Documentos\C#\Projecto1\Prog2\Prog2_p_1.2\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1._2.ConsultaPres.resources
+E:\Documentos\C#\Projecto1\Prog2\Prog2_p_1.2\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1._2.NuevoArt.resources
+E:\Documentos\C#\Projecto1\Prog2\Prog2_p_1.2\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1._2.NuevoPres.resources
+C:\Users\Lucas\Downloads\Prog2_p_1.2 (1)\Prog2_p_1.2\bin\Debug\net5.0-windows\Prog2_p_1.2.exe
+C:\Users\Lucas\Downloads\Prog2_p_1.2 (1)\Prog2_p_1.2\bin\Debug\net5.0-windows\Prog2_p_1.2.deps.json
+C:\Users\Lucas\Downloads\Prog2_p_1.2 (1)\Prog2_p_1.2\bin\Debug\net5.0-windows\Prog2_p_1.2.runtimeconfig.json
+C:\Users\Lucas\Downloads\Prog2_p_1.2 (1)\Prog2_p_1.2\bin\Debug\net5.0-windows\Prog2_p_1.2.runtimeconfig.dev.json
+C:\Users\Lucas\Downloads\Prog2_p_1.2 (1)\Prog2_p_1.2\bin\Debug\net5.0-windows\Prog2_p_1.2.dll
+C:\Users\Lucas\Downloads\Prog2_p_1.2 (1)\Prog2_p_1.2\bin\Debug\net5.0-windows\Prog2_p_1.2.pdb
+C:\Users\Lucas\Downloads\Prog2_p_1.2 (1)\Prog2_p_1.2\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Lucas\Downloads\Prog2_p_1.2 (1)\Prog2_p_1.2\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Lucas\Downloads\Prog2_p_1.2 (1)\Prog2_p_1.2\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Lucas\Downloads\Prog2_p_1.2 (1)\Prog2_p_1.2\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Lucas\Downloads\Prog2_p_1.2 (1)\Prog2_p_1.2\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lucas\Downloads\Prog2_p_1.2 (1)\Prog2_p_1.2\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lucas\Downloads\Prog2_p_1.2 (1)\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1.2.csproj.AssemblyReference.cache
+C:\Users\Lucas\Downloads\Prog2_p_1.2 (1)\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1._2.ConsultaPres.resources
+C:\Users\Lucas\Downloads\Prog2_p_1.2 (1)\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1._2.Maestro.resources
+C:\Users\Lucas\Downloads\Prog2_p_1.2 (1)\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1._2.NuevoArt.resources
+C:\Users\Lucas\Downloads\Prog2_p_1.2 (1)\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1._2.NuevoPres.resources
+C:\Users\Lucas\Downloads\Prog2_p_1.2 (1)\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1._2.VistaArts.resources
+C:\Users\Lucas\Downloads\Prog2_p_1.2 (1)\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1.2.csproj.GenerateResource.cache
+C:\Users\Lucas\Downloads\Prog2_p_1.2 (1)\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Downloads\Prog2_p_1.2 (1)\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1.2.AssemblyInfoInputs.cache
+C:\Users\Lucas\Downloads\Prog2_p_1.2 (1)\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1.2.AssemblyInfo.cs
+C:\Users\Lucas\Downloads\Prog2_p_1.2 (1)\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1.2.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\Prog2_p_1.2 (1)\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1.2.csproj.CopyComplete
+C:\Users\Lucas\Downloads\Prog2_p_1.2 (1)\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1.2.dll
+C:\Users\Lucas\Downloads\Prog2_p_1.2 (1)\Prog2_p_1.2\obj\Debug\net5.0-windows\refint\Prog2_p_1.2.dll
+C:\Users\Lucas\Downloads\Prog2_p_1.2 (1)\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1.2.pdb
+C:\Users\Lucas\Downloads\Prog2_p_1.2 (1)\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1.2.genruntimeconfig.cache
+C:\Users\Lucas\Downloads\Prog2_p_1.2 (1)\Prog2_p_1.2\obj\Debug\net5.0-windows\ref\Prog2_p_1.2.dll
+E:\Descargas\Prog2_p_1.2 (1)\Prog2_p_1.2\bin\Debug\net5.0-windows\Prog2_p_1.2.exe
+E:\Descargas\Prog2_p_1.2 (1)\Prog2_p_1.2\bin\Debug\net5.0-windows\Prog2_p_1.2.deps.json
+E:\Descargas\Prog2_p_1.2 (1)\Prog2_p_1.2\bin\Debug\net5.0-windows\Prog2_p_1.2.runtimeconfig.json
+E:\Descargas\Prog2_p_1.2 (1)\Prog2_p_1.2\bin\Debug\net5.0-windows\Prog2_p_1.2.runtimeconfig.dev.json
+E:\Descargas\Prog2_p_1.2 (1)\Prog2_p_1.2\bin\Debug\net5.0-windows\Prog2_p_1.2.dll
+E:\Descargas\Prog2_p_1.2 (1)\Prog2_p_1.2\bin\Debug\net5.0-windows\Prog2_p_1.2.pdb
+E:\Descargas\Prog2_p_1.2 (1)\Prog2_p_1.2\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+E:\Descargas\Prog2_p_1.2 (1)\Prog2_p_1.2\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Descargas\Prog2_p_1.2 (1)\Prog2_p_1.2\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+E:\Descargas\Prog2_p_1.2 (1)\Prog2_p_1.2\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+E:\Descargas\Prog2_p_1.2 (1)\Prog2_p_1.2\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Descargas\Prog2_p_1.2 (1)\Prog2_p_1.2\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Descargas\Prog2_p_1.2 (1)\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1.2.csproj.AssemblyReference.cache
+E:\Descargas\Prog2_p_1.2 (1)\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1._2.ConsultaPres.resources
+E:\Descargas\Prog2_p_1.2 (1)\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1._2.Maestro.resources
+E:\Descargas\Prog2_p_1.2 (1)\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1._2.NuevoArt.resources
+E:\Descargas\Prog2_p_1.2 (1)\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1._2.NuevoPres.resources
+E:\Descargas\Prog2_p_1.2 (1)\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1.2.csproj.GenerateResource.cache
+E:\Descargas\Prog2_p_1.2 (1)\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1.2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Descargas\Prog2_p_1.2 (1)\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1.2.AssemblyInfoInputs.cache
+E:\Descargas\Prog2_p_1.2 (1)\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1.2.AssemblyInfo.cs
+E:\Descargas\Prog2_p_1.2 (1)\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1.2.csproj.CoreCompileInputs.cache
+E:\Descargas\Prog2_p_1.2 (1)\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1.2.csproj.CopyComplete
+E:\Descargas\Prog2_p_1.2 (1)\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1.2.dll
+E:\Descargas\Prog2_p_1.2 (1)\Prog2_p_1.2\obj\Debug\net5.0-windows\refint\Prog2_p_1.2.dll
+E:\Descargas\Prog2_p_1.2 (1)\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1.2.pdb
+E:\Descargas\Prog2_p_1.2 (1)\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1.2.genruntimeconfig.cache
+E:\Descargas\Prog2_p_1.2 (1)\Prog2_p_1.2\obj\Debug\net5.0-windows\ref\Prog2_p_1.2.dll
+E:\Descargas\Prog2_p_1.2 (1)\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1._2.ConsultaArts.resources
+C:\Users\Lucas\Downloads\Prog2_p_1.2\Prog2_p_1.2\bin\Debug\net5.0-windows\Prog2_p_1.2.exe
+C:\Users\Lucas\Downloads\Prog2_p_1.2\Prog2_p_1.2\bin\Debug\net5.0-windows\Prog2_p_1.2.deps.json
+C:\Users\Lucas\Downloads\Prog2_p_1.2\Prog2_p_1.2\bin\Debug\net5.0-windows\Prog2_p_1.2.runtimeconfig.json
+C:\Users\Lucas\Downloads\Prog2_p_1.2\Prog2_p_1.2\bin\Debug\net5.0-windows\Prog2_p_1.2.runtimeconfig.dev.json
+C:\Users\Lucas\Downloads\Prog2_p_1.2\Prog2_p_1.2\bin\Debug\net5.0-windows\Prog2_p_1.2.dll
+C:\Users\Lucas\Downloads\Prog2_p_1.2\Prog2_p_1.2\bin\Debug\net5.0-windows\Prog2_p_1.2.pdb
+C:\Users\Lucas\Downloads\Prog2_p_1.2\Prog2_p_1.2\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Lucas\Downloads\Prog2_p_1.2\Prog2_p_1.2\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Lucas\Downloads\Prog2_p_1.2\Prog2_p_1.2\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Lucas\Downloads\Prog2_p_1.2\Prog2_p_1.2\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Lucas\Downloads\Prog2_p_1.2\Prog2_p_1.2\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lucas\Downloads\Prog2_p_1.2\Prog2_p_1.2\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lucas\Downloads\Prog2_p_1.2\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1.2.csproj.AssemblyReference.cache
+C:\Users\Lucas\Downloads\Prog2_p_1.2\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1._2.ConsultaArts.resources
+C:\Users\Lucas\Downloads\Prog2_p_1.2\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1._2.ConsultaPres.resources
+C:\Users\Lucas\Downloads\Prog2_p_1.2\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1._2.Maestro.resources
+C:\Users\Lucas\Downloads\Prog2_p_1.2\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1._2.NuevoArt.resources
+C:\Users\Lucas\Downloads\Prog2_p_1.2\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1._2.NuevoPres.resources
+C:\Users\Lucas\Downloads\Prog2_p_1.2\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1.2.csproj.GenerateResource.cache
+C:\Users\Lucas\Downloads\Prog2_p_1.2\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Downloads\Prog2_p_1.2\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1.2.AssemblyInfoInputs.cache
+C:\Users\Lucas\Downloads\Prog2_p_1.2\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1.2.AssemblyInfo.cs
+C:\Users\Lucas\Downloads\Prog2_p_1.2\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1.2.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\Prog2_p_1.2\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1.2.csproj.CopyComplete
+C:\Users\Lucas\Downloads\Prog2_p_1.2\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1.2.dll
+C:\Users\Lucas\Downloads\Prog2_p_1.2\Prog2_p_1.2\obj\Debug\net5.0-windows\refint\Prog2_p_1.2.dll
+C:\Users\Lucas\Downloads\Prog2_p_1.2\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1.2.pdb
+C:\Users\Lucas\Downloads\Prog2_p_1.2\Prog2_p_1.2\obj\Debug\net5.0-windows\Prog2_p_1.2.genruntimeconfig.cache
+C:\Users\Lucas\Downloads\Prog2_p_1.2\Prog2_p_1.2\obj\Debug\net5.0-windows\ref\Prog2_p_1.2.dll
