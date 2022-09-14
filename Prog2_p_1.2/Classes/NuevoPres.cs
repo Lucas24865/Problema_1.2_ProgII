@@ -12,7 +12,7 @@ namespace Prog2_p_1._2
 {
     public partial class NuevoPres : Form
     {
-        Connection con = new Connection();
+        Connection con = Connection.GetConnection();
         List<Articulo> arts = new List<Articulo>();
         List<DetalleFactura> artsAniadidos = new List<DetalleFactura>();
 

@@ -10,11 +10,22 @@ namespace Prog2_p_1._2
 {
     internal class Connection
     {
+        private static Connection connection;
         SqlConnection sqlConnection = new SqlConnection(@"Data Source = localhost; Initial Catalog = Facturacion_P1.2; Integrated Security = True");
         SqlCommand sqlCommand = new SqlCommand();
 
-        public Connection()
+        private Connection()
         { }
+
+        public static Connection GetConnection()
+        {
+            if (connection == null)
+            { 
+                connection = new Connection();
+            }
+
+            return connection;
+        }
 
         private void Abrir()
         { 

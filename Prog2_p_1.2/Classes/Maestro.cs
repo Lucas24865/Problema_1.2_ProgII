@@ -12,7 +12,7 @@ namespace Prog2_p_1._2
 {
     public partial class Maestro : Form
     {
-        Connection con = new Connection();
+        Connection con = Connection.GetConnection();
         int id = 1;
         public Maestro()
         {

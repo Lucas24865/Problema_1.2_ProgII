@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lucas\\Downloads\\Prog2_p_1.2\\Prog2_p_1.2\\Prog2_p_1.2.csproj": {}
+    "E:\\Documentos\\C#\\Projecto1\\Prog2\\P1.2\\Problema_1.2_ProgII\\Prog2_p_1.2\\Prog2_p_1.2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lucas\\Downloads\\Prog2_p_1.2\\Prog2_p_1.2\\Prog2_p_1.2.csproj": {
+    "E:\\Documentos\\C#\\Projecto1\\Prog2\\P1.2\\Problema_1.2_ProgII\\Prog2_p_1.2\\Prog2_p_1.2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lucas\\Downloads\\Prog2_p_1.2\\Prog2_p_1.2\\Prog2_p_1.2.csproj",
+        "projectUniqueName": "E:\\Documentos\\C#\\Projecto1\\Prog2\\P1.2\\Problema_1.2_ProgII\\Prog2_p_1.2\\Prog2_p_1.2.csproj",
         "projectName": "Prog2_p_1.2",
-        "projectPath": "C:\\Users\\Lucas\\Downloads\\Prog2_p_1.2\\Prog2_p_1.2\\Prog2_p_1.2.csproj",
+        "projectPath": "E:\\Documentos\\C#\\Projecto1\\Prog2\\P1.2\\Problema_1.2_ProgII\\Prog2_p_1.2\\Prog2_p_1.2.csproj",
         "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lucas\\Downloads\\Prog2_p_1.2\\Prog2_p_1.2\\obj\\",
+        "outputPath": "E:\\Documentos\\C#\\Projecto1\\Prog2\\P1.2\\Problema_1.2_ProgII\\Prog2_p_1.2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -67,7 +67,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

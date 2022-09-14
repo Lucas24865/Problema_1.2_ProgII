@@ -24,7 +24,7 @@ namespace Prog2_p_1._2
             nombre = txt_Nombre.Text;
             precio = Convert.ToInt32(txt_Precio.Text);
 
-            Connection con = new Connection();
+            Connection con = Connection.GetConnection();
             if (con.NuevoArt(nombre, precio))
             {
                 MessageBox.Show("Se pudo agregar correctamente el articulo");

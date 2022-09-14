@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EPjzmcC2JuykEdWC4Ws8z4YxEAelNDTY/wkfxx6Wdsb20qFthTZQcsxxWYai2YcroBbjHF4UqrZhRp/2gOwLHQ==",
+  "dgSpecHash": "Kj/mowRlL5kehh6Ld87US0GbrNkQsDAwGn7tKlvD5YUIBXvzM7zxEBR1aTU6Pl7IZ36fY9rZu2jt/3Ael2pMrQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lucas\\Downloads\\Prog2_p_1.2\\Prog2_p_1.2\\Prog2_p_1.2.csproj",
+  "projectFilePath": "E:\\Documentos\\C#\\Projecto1\\Prog2\\P1.2\\Problema_1.2_ProgII\\Prog2_p_1.2\\Prog2_p_1.2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",

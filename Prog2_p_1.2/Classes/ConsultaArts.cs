@@ -12,7 +12,7 @@ namespace Prog2_p_1._2
 {
     public partial class ConsultaArts : Form
     {
-        Connection con = new Connection();
+        Connection con = Connection.GetConnection();
         List<Articulo> arts = new List<Articulo>();
         public ConsultaArts()
         {
